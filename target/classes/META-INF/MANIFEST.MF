@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: restful-web-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 380898
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/restful-web-
+ services/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
